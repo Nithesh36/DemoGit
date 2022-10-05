@@ -1,0 +1,42 @@
+2021-11-26 07:32:59 INFO  stepDefinition.MediaRelaseStepdef Scrolldown:47 - scrolldown to take screenshot of unavailable images
+2021-11-26 07:33:26 INFO  stepDefinition.PaginationStepDef closeModal:65 - image modal is not closing
+2021-11-26 07:57:37 INFO  stepDefinition.LeaderStepDef mouseOver:27 - move to leader module
+2021-11-26 07:57:38 INFO  stepDefinition.LeaderStepDef clickSubLinks:32 - user clicks the links
+2021-11-26 07:58:21 INFO  stepDefinition.PaginationStepDef closeModal:65 - image modal is not closing
+2021-11-26 08:01:32 INFO  stepDefinition.LeaderStepDef mouseOver:30 - move to leader module
+2021-11-26 08:01:33 INFO  stepDefinition.LeaderStepDef clickSubLinks:35 - user clicks the links
+2021-11-26 08:03:50 INFO  stepDefinition.LeaderStepDef mouseOver:31 - move to leader module
+2021-11-26 08:03:51 INFO  stepDefinition.LeaderStepDef clickSubLinks:36 - user clicks the links
+2021-11-26 08:04:36 INFO  stepDefinition.PaginationStepDef closeModal:65 - image modal is not closing
+2021-11-26 08:10:37 INFO  stepDefinition.LeaderStepDef mouseOver:31 - move to leader module
+2021-11-26 08:10:37 INFO  stepDefinition.LeaderStepDef clickSubLinks:36 - user clicks the links
+2021-11-26 08:11:26 INFO  stepDefinition.MediaRelaseStepdef Scrolldown:50 - scrolldown to take screenshot of unavailable images
+2021-11-26 08:11:53 INFO  stepDefinition.PaginationStepDef closeModal:65 - image modal is not closing
+2021-11-26 08:31:39 INFO  stepDefinition.LeaderStepDef mouseOver:31 - move to leader module
+2021-11-26 08:31:39 INFO  stepDefinition.LeaderStepDef clickSubLinks:36 - user clicks the links
+2021-11-26 08:32:43 INFO  stepDefinition.PaginationStepDef closeModal:65 - image modal is not closing
+2021-11-26 08:34:15 INFO  stepDefinition.LeaderStepDef mouseOver:31 - move to leader module
+2021-11-26 08:34:16 INFO  stepDefinition.LeaderStepDef clickSubLinks:36 - user clicks the links
+2021-11-26 08:34:48 INFO  stepDefinition.MediaRelaseStepdef Scrolldown:50 - scrolldown to take screenshot of unavailable images
+2021-11-26 08:35:16 INFO  stepDefinition.PaginationStepDef closeModal:65 - image modal is not closing
+2021-11-26 08:46:59 INFO  stepDefinition.LeaderStepDef mouseOver:31 - move to leader module
+2021-11-26 08:47:00 INFO  stepDefinition.LeaderStepDef clickSubLinks:36 - user clicks the links
+2021-11-26 08:47:24 INFO  stepDefinition.MediaRelaseStepdef Scrolldown:50 - scrolldown to take screenshot of unavailable images
+2021-11-26 08:47:52 INFO  stepDefinition.PaginationStepDef closeModal:65 - image modal is not closing
+2021-11-26 08:59:19 INFO  stepDefinition.LeaderStepDef mouseOver:31 - move to leader module
+2021-11-26 08:59:19 INFO  stepDefinition.LeaderStepDef clickSubLinks:36 - user clicks the links
+2021-11-26 09:00:00 INFO  stepDefinition.MediaRelaseStepdef Scrolldown:50 - scrolldown to take screenshot of unavailable images
+2021-11-26 09:00:46 INFO  stepDefinition.PaginationStepDef closeModal:65 - image modal is not closing
+2021-11-26 09:21:03 INFO  stepDefinition.LeaderStepDef mouseOver:31 - move to leader module
+2021-11-26 09:21:05 INFO  stepDefinition.LeaderStepDef clickSubLinks:36 - user clicks the links
+2021-11-26 09:23:24 INFO  stepDefinition.PaginationStepDef closeModal:65 - image modal is not closing
+2021-11-26 09:23:25 INFO  stepDefinition.PublicationStepDef mouseOverToPublication:19 - publication page Factory elements are initiaized
+2021-11-26 09:23:38 INFO  stepDefinition.PublicationStepDef SelectDropDown:43 - select a  year from the dropdown
+2021-11-26 09:23:38 INFO  stepDefinition.PublicationStepDef WaitForsomeTime:53 - Document is displayed
+2021-11-26 09:33:54 INFO  stepDefinition.LeaderStepDef mouseOver:31 - move to leader module
+2021-11-26 09:33:54 INFO  stepDefinition.LeaderStepDef clickSubLinks:36 - user clicks the links
+2021-11-26 09:34:52 INFO  stepDefinition.MediaRelaseStepdef Scrolldown:50 - scrolldown to take screenshot of unavailable images
+2021-11-26 09:35:32 INFO  stepDefinition.PaginationStepDef closeModal:65 - image modal is not closing
+2021-11-26 09:35:33 INFO  stepDefinition.PublicationStepDef mouseOverToPublication:19 - publication page Factory elements are initiaized
+2021-11-26 09:35:46 INFO  stepDefinition.PublicationStepDef SelectDropDown:43 - select a  year from the dropdown
+2021-11-26 09:35:47 INFO  stepDefinition.PublicationStepDef WaitForsomeTime:53 - Document is displayed
